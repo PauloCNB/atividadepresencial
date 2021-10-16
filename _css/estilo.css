@@ -1,0 +1,195 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+}
+.container{
+    background-color: rgb(135, 219, 149);
+    width: 1200px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+}
+nav{
+    background-color: #fff;
+    margin-top: 10px;
+    width: 1200px;
+    height: 50px;
+    
+}
+aside{
+    background-color: #fff;
+    width: 1180px;
+    margin-top: 10px;
+    height: 500px;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+footer{
+    background-color: #fff;
+    width: 1200px;
+    height: 60px;
+    clear: both;
+}
+.logo img{
+    width: 100px;
+    height: 75px;
+}
+.menu{
+    font-family: arial;
+    color: black;
+    font-size: 16;
+    text-align: center;
+    font-weight: bold;
+    padding: 17px;
+}
+.cr img{
+    position: absolute;
+    max-width: 331px;
+    max-height: 278px;
+    left: 385px;
+    top: 190px;
+}
+.v1{
+    position: absolute;
+    left: 409px;
+    top: 460px;
+    font-family: arial;
+    font-size: 16;
+    font-weight: bold;
+}
+.ig img {
+    position: absolute;
+    max-width: 470px;
+    max-height: 200px;
+    left: 730px;
+    top: 190px;
+}
+.v2{
+    position: absolute;
+    left: 788px;
+    top: 400px;
+    font-family: arial;
+    font-size: 16;
+    font-weight: bold;
+}
+.if img{
+    position: absolute;
+    max-width: 331px;
+    max-height: 278px;
+    left: 1150px;
+    top: 190px;
+}
+.v3{
+    position: absolute;
+    left: 1185px;
+    top: 385px;
+    font-family: arial;
+    font-size: 16;
+    font-weight: bold;
+}
+.final{
+    position: absolute;
+    font-family: Arial;
+    color: rgb(81, 81, 201);
+    font-size: 24;
+    left:775px;
+    top: 600px;
+    font-weight: bold;
+}
+.f2{
+    position: absolute;
+    font-family: Arial;
+    color: rgb(81, 81, 201);
+    font-size: 24;
+    left: 810px;
+    top: 650px;
+    font-weight: bold;
+}
+.rodape{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 14;
+    font-weight: bold;
+}
+.pv{
+    position: absolute;
+    font-family: Arial;
+    color: rgb(139, 112, 112);
+    font-size: 8;
+    
+}
+.tc{
+    position: absolute;
+    font-family: Arial;
+    color: rgb(139, 112, 112);
+    font-size: 8;
+}
+.info{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 14;
+    font-weight: bold;
+    left: 680px;
+    top: 690px;
+}
+.sn{
+    position: absolute;
+    font-family: Arial;
+    color: rgb(139, 112, 112);
+    font-size: 8;
+    left: 680px;
+    top: 710px;
+}
+.cn{
+    position: absolute;
+    font-family: Arial;
+    color: rgb(139, 112, 112);
+    font-size: 8;
+    left: 680px;
+    top: 730px;
+}
+.contator{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 14;
+    font-weight: bold;
+    left: 980px;
+    top: 690px;
+}
+.em{
+    position: absolute;
+    font-family: Arial;
+    color: rgb(139, 112, 112);
+    font-size: 8;
+    left: 980px;
+    top: 710px;
+}
+.cell{
+    position: absolute;
+    font-family: Arial;
+    color: rgb(139, 112, 112);
+    font-size: 8;
+    left: 980px;
+    top: 730px;
+}
+.ende{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 14;
+    font-weight: bold;
+    left: 1280px;
+    top: 690px;
+}
+.endereço{
+    position: absolute;
+    font-family: Arial;
+    color: rgb(139, 112, 112);
+    font-size: 8;
+    left: 1280px;
+    top: 710px;
+}
